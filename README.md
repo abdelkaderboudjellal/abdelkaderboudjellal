@@ -1,15 +1,20 @@
 [![MasterHead](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
 <h3 align="center">Front End Web Developer / Software Engineer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboudjellal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkaderboudjellal" /> </p>
 
-- my projects [clinic-website](https://github.com/abdelkaderboudjellal/clinic-website)
+<div align="center">
 
-- - [bookmark-aek](https://github.com/abdelkaderboudjellal/bookmark-aek)
+|#| Project (live preview)  | Repo |
+|-| ----------- | ----------- |
+|1| [bookmark-aek](https://bookmark-aek.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="html" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/bookmark-aek)
+|2| [clinic-website](https://clinic-website-aek.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/clinic-website)
+|3| [weather-app](https://weather-app-aek.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/weather-app)
+|4| [shoppingApp]()|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/shoppingApp-react-json-server)
 
-- - [weather-app](https://github.com/abdelkaderboudjellal/weather-app)
 
+</div>
 - 👨‍💻 All of my projects are available at [https://github.com/abdelkaderboudjellal/](https://github.com/abdelkaderboudjellal/)
 
 - 📫 How to reach me **kaderboudj94@gmail.com**
