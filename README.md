@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
 <h3 align="center">Front End Web Developer / Software Engineer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboudjellal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkaderboudjellal" /> </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 
 </div>
-- 👨‍💻 All of my projects are available at [https://github.com/abdelkaderboudjellal/](https://github.com/abdelkaderboudjellal/)
+<br>
 
 - 📫 How to reach me **kaderboudj94@gmail.com**
 
