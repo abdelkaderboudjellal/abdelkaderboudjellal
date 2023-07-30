@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
 <h3 align="center">Front End Web Developer / Software Engineer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboudjellal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkaderboudjellal" /> </p>
+
 
 <div align="center">
 
