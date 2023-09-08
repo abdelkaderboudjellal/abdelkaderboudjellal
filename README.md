@@ -13,6 +13,7 @@
 |3| [weather-app](https://weather-app-aek.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/weather-app)
 |4| [shoppingApp]()|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/shoppingApp-react-json-server)
 |5| [App-Shop-Mui-Next js](https://app-shop-ts-nextjs-aek.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/App-Shop-ts)
+|6| [Clinic-Reactjs-ts-sass](https://clinica-taupe-ten.vercel.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/abdelkaderboudjellal/clinica)
 
 
 </div>
